@@ -3,6 +3,7 @@
 #include "static_allocator.h"
 
 
+
 // Define static memory pool
 static uint8_t memory_pool[POOL_SIZE];
 
